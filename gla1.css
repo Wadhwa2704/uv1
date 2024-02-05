@@ -1,0 +1,25 @@
+/* Author: BAANI */
+/* Date: 04-02-24 */
+/* Graded Learning Acticivty 1 */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    font-size: 18px;
+    color: #4caf50;
+}
